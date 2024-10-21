@@ -11,5 +11,7 @@ def Thomas_kul(n=print(end="luk")):
     print("luk")
 
 Thomas_kul()
+m=100
+print(f'{m//60}h, {m%60}m')
 
     
